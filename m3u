@@ -1,4 +1,4 @@
-# iptv
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1,潇湘电影
 http://113.247.237.109:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1,长沙新闻http://113.247.237.109:9901/tsfile/live/faacts/1003_1.m3u8?key=txiptv&playlive=1&down=1
