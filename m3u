@@ -69,14 +69,24 @@ http://110.80.17.38:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
 http://110.80.17.38:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,山东卫视
 http://110.80.17.38:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,山西卫视       http://110.80.17.38:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,四川卫视http://110.80.17.38:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,云南卫视http://110.80.17.38:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,贵州卫视http://110.80.17.38:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,陕西卫视http://110.80.17.38:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,甘肃卫视http://110.80.17.38:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,重庆卫视http://110.80.17.38:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,天津卫视http://110.80.17.38:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,兵团卫视http://110.80.17.38:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,宁夏卫视http://110.80.17.38:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,新疆卫视http://110.80.17.38:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,山西卫视            http://110.80.17.38:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,四川卫视
+http://110.80.17.38:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,云南卫视
+http://110.80.17.38:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,贵州卫视
+http://110.80.17.38:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,陕西卫视
+http://110.80.17.38:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,甘肃卫视
+http://110.80.17.38:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,重庆卫视
+http://110.80.17.38:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,天津卫视
+http://110.80.17.38:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,兵团卫视
+http://110.80.17.38:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,宁夏卫视
+http://110.80.17.38:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,新疆卫视
+http://110.80.17.38:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
