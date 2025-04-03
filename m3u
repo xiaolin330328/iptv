@@ -348,8 +348,10 @@ http://58.213.65.146:352/tsfile/live/0143_1.m3u8?公众号【潇雨萌萌】txip
 #EXTINF:-1,
 http://202.168.187.205:9089/tsfile/live/0143_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
 
-
-
+#EXTINF:-1,
+http://202.168.187.205:9089/tsfile/live/1008_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
+#EXTINF:-1,
+http://202.168.187.205:9089/tsfile/live/0021_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
 
 #EXTINF:-1,
 http://202.168.187.205:9089/tsfile/live/0132_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
