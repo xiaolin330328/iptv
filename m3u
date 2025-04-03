@@ -53,8 +53,6 @@ http://182.91.124.224:9901/tsfile/live/1056_1.m3u8?公众号【潇雨萌萌】tx
 http://58.17.116.69:9903/tsfile/live/0137_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
 #EXTINF:-1,东南卫视
 http://58.17.116.69:9903/tsfile/live/0137_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
-#EXTINF:-1,东南卫视
-http://58.17.116.69:9903/tsfile/live/0137_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
 #EXTINF:-1,甘肃卫视
 http://58.243.224.244:9901/tsfile/live/1029_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
 #EXTINF:-1,湖北卫视
@@ -344,22 +342,5 @@ http://58.213.65.146:352/tsfile/live/0142_1.m3u8?公众号【潇雨萌萌】txip
 #EXTINF:-1,黑龙江卫视
 http://58.213.65.146:352/tsfile/live/0143_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
 
-
-#EXTINF:-1,
-http://202.168.187.205:9089/tsfile/live/0143_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
-
-#EXTINF:-1,
-http://202.168.187.205:9089/tsfile/live/1008_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
-#EXTINF:-1,
-http://202.168.187.205:9089/tsfile/live/0021_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
-
-#EXTINF:-1,
-http://202.168.187.205:9089/tsfile/live/0132_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
-#EXTINF:-1,
-http://202.168.187.205:9089/tsfile/live/0121_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
-#EXTINF:-1,
-http://202.168.187.205:9089/tsfile/live/0115_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
-#EXTINF:-1,
-http://202.168.187.205:9089/tsfile/live/0125_1.m3u8?公众号【潇雨萌萌】txiptv&playlive
 
 
