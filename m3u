@@ -1,18 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,杭州萧山综合
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1 ,杭州萧山综合
-http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
 #EXTINF:-1 ,杭州萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 ,杭州馀杭综合
-http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-#EXTINF:-1 ,杭州馀杭平安
-http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
-#EXTINF:-1 ,杭州馀杭未来
-http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-#EXTINF:-1 ,杭州富阳综合
-http://34666.hlsplay.aodianyun.com/tv_radio_34666/tv_channel_1181.m3u8
 #EXTINF:-1 ,宁波象山综合
 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1 ,宁波宁海新闻
@@ -29,38 +19,6 @@ http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 ,绍兴上虞影视
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 ,绍兴嵊州综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 ,绍兴新昌新闻综合
-http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-#EXTINF:-1 ,绍兴新昌休闲影视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 ,金华教育科技
-http://stream3.xiancity.cn/2/sd/live.m3u8
-#EXTINF:-1 ,金华都市农村
-http://ls.qingting.fm/live/1612.m3u8
-#EXTINF:-1 ,金华东阳综合
-http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 ,金华东阳影视
-http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 ,金华武义综合
-http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-#EXTINF:-1 ,金华兰溪综合
-http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-#EXTINF:-1 ,金华磐安综合
-http://pili-live-hls.panews.cn/panews/live526-0.m3u8
-#EXTINF:-1 ,金华磐安生活
-http://pili-live-hls.panews.cn/panews/live3000149-0.m3u8
-#EXTINF:-1 ,衢州江山综合
-http://pili-live-hls.qzjs.21js.com/21js-qz/live609-0.m3u8
-#EXTINF:-1 ,衢州龙游综合
-https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-#EXTINF:-1 ,衢州龙游生活
-https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-#EXTINF:-1 ,衢州开化综合
-http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
-#EXTINF:-1 ,衢州开化国家公园
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 #EXTINF:-1 ,衢州衢江综合
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1 ,湖州长兴综合
