@@ -1,3 +1,108 @@
+#EXTM3U
+#EXTINF:-1 ,杭州萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 ,杭州萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan3/720p.m3u8
+#EXTINF:-1 ,杭州萧山生活
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 ,杭州馀杭综合
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1 ,杭州馀杭平安
+http://l.cztvcloud.com/channels/lantian/SXyuhang2/720p.m3u8
+#EXTINF:-1 ,杭州馀杭未来
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 ,杭州富阳综合
+http://34666.hlsplay.aodianyun.com/tv_radio_34666/tv_channel_1181.m3u8
+#EXTINF:-1 ,宁波象山综合
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1 ,宁波宁海新闻
+http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.m3u8
+#EXTINF:-1 ,温州文成综合
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 ,绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 ,绍兴公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 ,绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 ,绍兴上虞综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 ,绍兴上虞影视
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 ,绍兴嵊州综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 ,绍兴新昌新闻综合
+http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 ,绍兴新昌休闲影视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 ,金华教育科技
+http://stream3.xiancity.cn/2/sd/live.m3u8
+#EXTINF:-1 ,金华都市农村
+http://ls.qingting.fm/live/1612.m3u8
+#EXTINF:-1 ,金华东阳综合
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 ,金华东阳影视
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 ,金华武义综合
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1 ,金华兰溪综合
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+#EXTINF:-1 ,金华磐安综合
+http://pili-live-hls.panews.cn/panews/live526-0.m3u8
+#EXTINF:-1 ,金华磐安生活
+http://pili-live-hls.panews.cn/panews/live3000149-0.m3u8
+#EXTINF:-1 ,衢州江山综合
+http://pili-live-hls.qzjs.21js.com/21js-qz/live609-0.m3u8
+#EXTINF:-1 ,衢州龙游综合
+https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+#EXTINF:-1 ,衢州龙游生活
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1 ,衢州开化综合
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+#EXTINF:-1 ,衢州开化国家公园
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1 ,衢州衢江综合
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+#EXTINF:-1 ,湖州长兴综合
+http://l.cztvcloud.com/channels/lantian/SXchangxing1/720p.m3u8
+#EXTINF:-1 ,湖州安吉新闻
+https://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1499.m3u8
+#EXTINF:-1 ,湖州安吉生活
+https://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1526.m3u8
+#EXTINF:-1 ,丽水遂昌综合
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1 ,丽水松阳综合
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1 ,丽水庆元综合
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1 ,丽水缙云综合
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1 ,丽水龙泉综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 ,丽水云和综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1 ,丽水青田综合
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1 ,丽水景宁文化旅游
+http://pili-live-hls.jnbctv.com/jnlive/tv81-1537429639.m3u8
+#EXTINF:-1 ,丽水景宁新闻综合
+http://pili-live-hls.jnbctv.com/jnlive/tv81-1537153703.m3u8
+#EXTINF:-1 ,舟山普陀综合
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1 ,舟山嵊泗综合
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1 ,瑞安电视台
+http://play-sh-21.quklive.com/live/1681269183807252.m3u8?auth_key=2033114999-67ff99bfbe1b4577b013750618ffce6b-0-454401c27452e83159ca9466ef742db2
+#EXTINF:-1 ,龙港电视台
+https://play-qukan.cztv.com/live/1722309876941077.m3u8
+#EXTINF:-1 ,泰顺电视台
+http://play-qukan.cztv.com/live/1678281955071033.m3u8
+#EXTINF:-1 ,苍南电视台
+http://hls.quklive.com/live/play-sh-21.quklive.com/1726543353849105.m3u8?auth_key=1741693594-95967ef1b69e4feb81213eace59e8c60-0-1474004793a0546dd2b2fa5dad3c88d1
+#EXTINF:-1 ,温州电视台
+http://play-qk.wzrb.com.cn/live/1728463192330572.m3u8?auth_key=2044351793-fa66d1d33e3d426ca3dccb94845595d7-0-4bc36ce83dfac0c77ddd501ffe397bcc
+#EXTINF:-1 ,杭州综合
+https://l.cztvcloud.com/channels/lanti
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1,新疆卫视
 http://119.123.178.225:8086/hls/153/index.m3u8?公众号【潇雨萌萌】txiptv&playlive
