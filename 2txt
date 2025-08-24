@@ -266,13 +266,33 @@ CCTV3,http://home.yinjunsheng.top:8888/udp/239.253.242.124:8000
 CCTV4,http://home.yinjunsheng.top:8888/udp/239.253.242.111:8000
 河北卫视,http://home.yinjunsheng.top:8888/udp/239.253.242.112:8000河北
 湖南,#genera#
-湖南都市HD,http://php.jdshipin.com:8880/iptv.php?id=hnds
-湖南经视HD,http://php.jdshipin.com:8880/iptv.php?id=hnjs
-湖南爱晚HD,http://php.jdshipin.com:8880/iptv.php?id=hnaw
+北京卫视4K,广东卫视4 
+
+辉哥 榴芒电视 
+
+2025年08月05日 17:54 4人 
+
+北京卫视4K,http://106.53.99.30/tv/api.php?id=bjws4k
+
+广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws
+
+广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws4k
+
+广东卫视4K,http://8.138.7.223/tv/api.php?id=gdws4k
+
+苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
+
+河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
+
+广州电视4K,http://8.138.7.223/tv/gd.php?id=gz4k
+
+广州电视4K,http://8.138.7.223/tv/gd.php?id=gztv5
+湖南爱晚HD,http://php.jdshipin.com:8880/iptv.php?id=hngg
 湖南电影HD,http://php.jdshipin.com:8880/iptv.php?id=hndy
 湖南都市HD,http://php.jdshipin.com:8880/iptv.php?id=hnds
 湖南经视HD,http://php.jdshipin.com:8880/iptv.php?id=hnjs
 湖南国际HD,http://php.jdshipin.com:8880/iptv.php?id=hngj
+湖南娱乐HD,http://php.jdshipin.com:8880/iptv.php?id=hnyl
 湖南电视剧HD,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
