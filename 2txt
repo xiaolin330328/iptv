@@ -1,4 +1,9 @@
-
+河南卫视,http://106.42.109.228:2000/rtp/239.16.20.21:10210
+河南都市,http://106.42.109.228:2000/rtp/239.16.20.164:11640
+河南民生,http://106.42.109.228:2000/rtp/239.16.20.165:11650
+河南法治,http://106.42.109.228:2000/rtp/239.16.20.166:11660
+河南电视剧,http://106.42.109.228:2000/rtp/239.16.20.167:11670
+河南新闻频道,http://106.42.109.228:2000/rtp/239.16.20.168:11680
 各省卫视,#genre#
 湖南卫视,http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
 浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
