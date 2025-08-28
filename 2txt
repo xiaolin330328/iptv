@@ -766,3 +766,8 @@ CCTV3,http://116.117.106.196:8096/tsfile/live/0003_1.m3u8
 CCTV2,http://116.117.106.196:8096/tsfile/live/0002_1.m3u8
 CCTV1,http://116.117.106.196:8096/tsfile/live/0001_1.m3u8
 卫视,http://183.161.57.99:55555/tsfile/live/0006_1.m3u8
+CCTV 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+北京卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
+广东卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
+深圳卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
+山东卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
