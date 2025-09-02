@@ -1004,10 +1004,19 @@ CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
+广东卫视4K,http://8.138.7.223/tv/api.php?id=gdws4k
+
+广东卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
+
+苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
+
+河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
+
+广州电视4K,http://8.138.7.223/tv/gd.php?id=gz4k
+
+北京卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+
+深圳卫视4K,http://go.bkpcp.top/mg/szws
 
 
-CCTV 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
-北京卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
-广东卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
-深圳卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
-山东卫视 4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
+
