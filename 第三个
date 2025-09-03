@@ -1,6 +1,6 @@
 CCTV-1综合标清,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv1_2/index.m3u8
 
-CCTV-13新闻标清,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv13_1/index.m3u8
+CCTV-13新闻标清,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv13_2/index.m3u8
 CCTV-3文艺标清,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv3_2/index.m3u8
 
 CCTV-4中文国际,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv4_2/index.m3u8
@@ -719,8 +719,6 @@ NOW新闻台,https://cdn.163189.xyz/163189/now
 明珠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
-
-
 注：
 ①部分频道需使用代理才能正常播放。
 ②如果卡顿可尝试使用代理观看，或者使用nginx反代：https://t.me/tvzby/10872
@@ -914,7 +912,6 @@ CCTV3,http://home.yinjunsheng.top:8888/udp/239.253.242.124:8000
 教育一套,http://home.yinjunsheng.top:8888/udp/239.253.242.110:8000
 CCTV4,http://home.yinjunsheng.top:8888/udp/239.253.242.111:8000
 河北卫视,http://home.yinjunsheng.top:8888/udp/239.253.242.112:8000
-
 2025年08月05日 17:54 4人 
 
 湖南爱晚HD,http://php.jdshipin.com:8880/iptv.php?id=hngg
@@ -996,19 +993,9 @@ CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
-广东卫视4K,http://8.138.7.223/tv/api.php?id=gdws4k
 
-广东卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
 
-苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
 
-河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-
-广州电视4K,http://8.138.7.223/tv/gd.php?id=gz4k
-
-北京卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
-
-深圳卫视4K,http://go.bkpcp.top/mg/szws
 
 
 
