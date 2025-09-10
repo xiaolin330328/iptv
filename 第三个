@@ -1,28 +1,18 @@
 深圳卫视,http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv
 深圳卫视,http://223.241.247.214:9901/tsfile/live/1008_1.m3u8?key=txiptv
+【广东】茂名电信
+中山综合高清,http://113.109.250.40:9999/udp/239.253.43.62:5146
+中山香山文化高清,http://113.109.250.40:9999/udp/239.253.43.63:5146
+清远新闻综合高清,http://113.109.250.40:9999/udp/239.253.43.33:5146
+云浮综合高清,http://113.109.250.40:9999/udp/239.77.0.253:5146
+云浮文旅高清,http://113.109.250.40:9999/udp/239.77.0.254:5146
+河源新闻综合高清,http://113.109.250.40:9999/udp/239.253.43.213:5146
+河源生活高清,http://113.109.250.40:9999/udp/239.253.43.214:5146
+梅州综合高清,http://113.109.250.40:9999/udp/239.253.43.123:5146
+梅州客家生活高清,http://113.109.250.40:9999/udp/239.253.43.124:5146
+江门综合高清,http://113.109.250.40:9999/udp/239.77.0.201:5146
+有效期：9天
 
-juli:
-1905电影网,http://php.jdshipin.com/1905.php
-CCTV1,http://cdn.jdshipin.com/cctv1.php
-CCTV2,http://cdn.jdshipin.com/cctv2.php
-CCTV4,http://cdn.jdshipin.com/cctv2.php
-【湖南】长沙电信
-怀化新闻综合高清,http://175.11.171.40:4022/udp/239.76.248.12:1234
-冷水江新闻综合高清,http://175.11.171.40:4022/udp/239.76.248.40:1234
-临澧新闻综合高清,http://175.11.171.40:4022/udp/239.76.248.32:1234
-津市综合高清,http://175.11.171.40:4022/udp/239.76.248.30:1234
-茶陵综合高清,http://175.11.171.40:4022/udp/239.76.248.27:1234
-有效期: 3天
-【江西】赣州电信酒店源
-石城综合,http://115.150.63.77:85/tsfile/live/0001_15.m3u8?key=txiptv&playlive=1&authid=0
-【石城影视】,http://115.150.63.77:85/tsfile/live/0001_16.m3u8?key=txiptv&playlive=1&authid=0
-抚州综合,http://115.150.63.77:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-赣州新闻综合,http://115.150.63.77:85/tsfile/live/0001_50.m3u8?key=txiptv&playlive=1&authid=0
-赣州公共,http://115.150.63.77:85/tsfile/live/0001_51.m3u8?key=txiptv&playlive=1&authid=0
-赣州教育,http://115.150.63.77:85/tsfile/live/0001_52.m3u8?key=txiptv&playlive=1&authid=0
-章贡综合高清,http://115.150.63.77:85/tsfile/live/0001_53.m3u8?key=txiptv&playlive=1&authid=0
-江西都市,http://115.150.63.77:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-江西经济生活,http://115.150.63.77:85/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 有效期: 140天【安徽】亳州电视台官方
 亳州综合,http://60.174.86.121:9003/hls/2/index.m3u8
 亳州农村,http://60.174.86.121:9003/hls/3/index.m3u8
