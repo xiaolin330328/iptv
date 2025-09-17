@@ -1,3 +1,77 @@
+CCTV1,http://cdn.jdshipin.com/jisu.php?id=cctv1
+CCTV6,http://cdn.jdshipin.com/jisu.php?id=cctv6
+浙江卫视,http://cdn.jdshipin.com/jisu.php?id=zjws
+天津卫视,http://cdn.jdshipin.com/jisu.php?id=tjws
+翡翠台,http://cdn.jdshipin.com/jisu.php?id=fct
+无线新闻,http://cdn.jdshipin.com/jisu.php?id=wxxw
+凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw
+凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx
+凤凰香港,http://cdn.jdshipin.com/jisu.php?id=fhxg
+注：为防止源泛滥，已隐藏原始php链接。
+可用id:
+    "cctv1",
+    "cctv2",
+    "cctv3",
+    "cctv4",
+    "cctv5",
+    "cctv5p",
+    "cctv6",
+    "cctv7",
+    "cctv8",
+    "cctv9",
+    "cctv10",
+    "cctv11",
+    "cctv12",
+    "cctv13",
+    "cctv14",
+    "cctv15",
+    "cctv16",
+    "cctv17",
+    "bjws",
+    "dfws",
+    "tjws",
+    "cqws",
+    "hljws",
+    "jlws",
+    "lnws",
+    "hbws",
+    "sdws",
+    "sxws",
+    "snws",
+    "ahws",
+    "hnws",
+    "hubws",
+    "hunws",
+    "jxws",
+    "jsws",
+    "zjws",
+    "dnws",
+    "xmws",
+    "gdws",
+    "szws",
+    "gxws",
+    "gzws",
+    "scws",
+    "ynws",
+    "xjws",
+    "hinws",
+    "ssws",
+    "gsws",
+    "nmgws",
+    "nxws",
+    "qhws",
+    "xzws",
+    "ybws",
+    "chcdzdy",
+    "chcymdy",
+    "chcjtyy",
+    "fhzw",
+    "fhzx",
+    "fhxg",
+    "fct",
+    "wxxw",
+    "ztxw",
+    "hyxw"
 翡翠1台,http://cdn6.16899.ggff.net/live/tvb1/stream.m3u8
 翡翠综合台,http://cdn6.16899.ggff.net/live/j1/stream.m3u8
 翡翠剧集台,http://cdn6.16899.ggff.net/live/tvbd/stream.m3u8
