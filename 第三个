@@ -13,20 +13,29 @@
 台湾|东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 台湾|东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 台湾|东森超视 34.5,http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
-TVB翡翠台,http://play-ali.cloudvdn.com/live/00987tp0031.flv
-凤凰资讯台,http://play-ali.cloudvdn.com/live/00987tp0032.flv
-凤凰香港台,http://play-ali.cloudvdn.com/live/00987tp0033.flv
-凤凰中文台,http://play-ali.cloudvdn.com/live/00987tp0034.flv
-天映经典,http://play-ali.cloudvdn.com/live/00987tp0035.flv
-爆谷,http://play-ali.cloudvdn.com/live/00987tp0038.flv
-星影,http://play-ali.cloudvdn.com/live/00987tp0039.flv
-TVB翡翠台,http://play-ali.cloudvdn.com/live/00987tp0041.flv
-凤凰资讯台,http://play-ali.cloudvdn.com/live/00987tp0042.flv
-凤凰香港台,http://play-ali.cloudvdn.com/live/00987tp0053.flv
-凤凰中文台,http://play-ali.cloudvdn.com/live/00987tp0065.flv
-天映经典,http://play-ali.cloudvdn.com/live/00987tp0075.flv
-爆谷,http://play-ali.cloudvdn.com/live/00987tp0028.flv
-星影,http://play-ali.cloudvdn.com/live/00987tp0049.flv
+【江苏】扬帆APP
+扬州新闻,http://zjtv.wshls.homecdn.com/live/8bb.m3u8
+扬州民生,http://zjtv.wshls.homecdn.com/live/8bd.m3u8
+【预备频道】,http://zjtv.wshls.homecdn.com/live/8bf.m3u8
+扬州江都,http://zjtv.wshls.homecdn.com/live/8c1.m3u8
+扬州邗江,http://zjtv.wshls.homecdn.com/live/8c3.m3u8
+【山西】忻州联通酒店源
+忻州综合,http://118.79.57.91:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+忻州公共,http://118.79.57.91:85/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
+五台综合,http://118.79.57.91:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+山西经济与科技高清,http://118.79.57.91:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+山西文体生活高清,http://118.79.57.91:85/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+山西社会与法治高清,http://118.79.57.91:85/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+山西影视高清,http://118.79.57.91:85/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
+山西黄河高清,http://118.79.57.91:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+太原新闻综合,http://118.79.57.91:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+太原百姓生活,http://118.79.57.91:85/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+太原影视,http://118.79.57.91:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+太原社教,http://118.79.57.91:85/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典高清,http://118.79.57.91:85/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+中国天气高清,http://118.79.57.91:85/tsfile/live/1102_1.m3u8?key=txiptv&playlive=1&authid=0
+有效期：3天
+
 北京卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=bjws
 山东卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=sdws
 卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=dfws
@@ -50,7 +59,7 @@ TVB翡翠台,http://play-ali.cloudvdn.com/live/00987tp0041.flv
 贵州卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=gzws
 四川卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=scws
 云南卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=ynws
-卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=xjws
+新疆卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=xjws
 卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=hinws
 三沙卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=ssws
 甘肃卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=gsws
