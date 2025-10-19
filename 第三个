@@ -29,9 +29,11 @@ CCTV12,http://8.138.7.223/tv/hndy.php?id=cctv-12
 CCTV13,http://8.138.7.223/tv/hndy.php?id=cctv-13
 
 浙江卫视,http://8.138.7.223/tv/hndy.php?id=zhejiangweishi
-北京卫视,http://8.138.7.223/tv/hndy.php?id=beijinweishi
+广东卫视,http://8.138.7.223/tv/hndy.php?id=guangdongweishi
+天津卫视,http://8.138.7.223/tv/hndy.php?id=tjweishi
 
-天津,http://8.138.7.223/tv/hndy.php?id=shandongweishi
+江苏卫视,http://8.138.7.223/tv/hndy.php?id=jsweishi
+湖南卫视,http://8.138.7.223/tv/hndy.php?id=hunanweishi
 北京卫视,http://8.138.7.223/tv/hndy.php?id=beijingweishi
 
 河南卫视,http://8.138.7.223/tv/hndy.php?id=hnweishi
