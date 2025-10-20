@@ -1,46 +1,4 @@
-台湾|国会频道 1 台湾省人民政府,http://61.58.60.230:9319/live/123.m3u8
-台湾|国会频道 2 台湾省人民政府,http://61.58.60.230:9319/live/124.m3u8
-台湾|国会频道 1 台湾省人民政府,http://61.58.60.230:9319/live/131.m3u8
-台湾|国会频道 2 台湾省人民政府,http://61.58.60.230:9319/live/118.m3u8
-台湾|国会频道 1 台湾省人民政府,http://61.58.60.230:9319/live/128.m3u8
-台湾|国会频道 2 台湾省人民政府,http://61.58.60.230:9319/live/114.m3u8
 
-
-河南教育网480,http://8.138.7.223/tv/hndy.php?id=cctv-1
-
-CCTV1,http://8.138.7.223/tv/hndy.php?id=cctv-1
-
-CCTV3,http://8.138.7.223/tv/hndy.php?id=cctv-3
-
-CCTV5,http://8.138.7.223/tv/hndy.php?id=cctv-5
-
-CCTV6,http://8.138.7.223/tv/hndy.php?id=cctv-6
-
-CCTV7,http://8.138.7.223/tv/hndy.php?id=cctv-7
-
-CCTV9,http://8.138.7.223/tv/hndy.php?id=cctv-9
-
-CCTV10,http://8.138.7.223/tv/hndy.php?id=cctv-10
-
-CCTV11,http://8.138.7.223/tv/hndy.php?id=cctv-11
-
-CCTV12,http://8.138.7.223/tv/hndy.php?id=cctv-12
-
-CCTV13,http://8.138.7.223/tv/hndy.php?id=cctv-13
-
-浙江卫视,http://8.138.7.223/tv/hndy.php?id=zhejiangweishi
-广东卫视,http://8.138.7.223/tv/hndy.php?id=guangdongweishi
-天津卫视,http://8.138.7.223/tv/hndy.php?id=tjweishi
-
-江苏卫视,http://8.138.7.223/tv/hndy.php?id=jsweishi
-湖南卫视,http://8.138.7.223/tv/hndy.php?id=hunanweishi
-北京卫视,http://8.138.7.223/tv/hndy.php?id=beijingweishi
-
-河南卫视,http://8.138.7.223/tv/hndy.php?id=hnweishi
-
-河南都市频道,http://8.138.7.223/tv/hndy.php?id=henandushi
-
-河南民生频道,http://8.138.7.223/tv/hndy.php?id=henanminsheng
 台湾|东森美洲 HD,http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8
 台湾|东森美洲 HD,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
 台湾|东森美洲 HD,http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
@@ -75,7 +33,7 @@ CCTV13,http://8.138.7.223/tv/hndy.php?id=cctv-13
 
 北京卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=bjws
 山东卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=sdws
-卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=dfws
+东方卫视陕西卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=dfws
 吉林卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=jlws
 辽宁卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=lnws
 卫视,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=hljws
