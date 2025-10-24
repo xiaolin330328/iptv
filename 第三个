@@ -22,20 +22,6 @@ CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-CCTV1,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-CCTV2,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
-CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cwjdhd.m3u8?auth=testpub
-CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-CCTV8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 台湾|东森美洲 HD,http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8
 台湾|东森美洲 HD,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
 台湾|东森美洲 HD,http://38.64.72.148:80/hls/modn/list/2016/playlist.m3u8
@@ -119,14 +105,13 @@ c4k,http://itv.809899.xyz/sxg.php?id=ys4Kcq_2000
 测试2,http://38.75.136.137:98/gslb/jsbtv2/dfwshd.m3u8?auth=pubtest1021
 测试1,http://38.75.136.137:98/gslb/jsbtv1/jswshd.m3u8?auth=pubtest1021
 测试2,http://38.75.136.137:98/gslb/jsbtv2/zjwshd.m3u8?auth=pubtest1021
-
-测试1,http://38.75.136.137:98/gslb/jsbtv1/dyjchd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/fyjchd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/cwjdhd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/chcdzhd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/chcjthd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/chchd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/hxwshd.m3u8?auth=pubtest1021
+测试1,http://38.75.136.137:98/gslb/jsbtv1/gdwshd.m3u8?auth=pubtest1021
+测试2,http://38.75.136.137:98/gslb/jsbtv2/szwshd.m3u8?auth=pubtest1021
+测试1,http://38.75.136.137:98/gslb/jsbtv1/gzwshd.m3u8?auth=pubtest1021
+测试2,http://38.75.136.137:98/gslb/jsbtv2/gxwshd.m3u8?auth=pubtest1021
+测试1,http://38.75.136.137:98/gslb/jsbtv1/ynwshd.m3u8?auth=pubtest1021
+测试2,http://38.75.136.137:98/gslb/jsbtv2/scwshd.m3u8?auth=pubtest1021
+测试1,http://38.75.136.137:98/gslb/jsbtv1/jlwshd.m3u8?auth=pubtest1021
 测试2,http://38.75.136.137:98/gslb/jsbtv2/dnwshd.m3u8?auth=pubtest1021
 bv|cctv1hd,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 bv|cctv2hd,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
