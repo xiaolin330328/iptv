@@ -1,8 +1,4 @@
 
-Now爆谷,http://pulltest-bj.alivecdn.com/live/hktv-09ali20mp.flv
-Now星影,http://pulltest-bj.alivecdn.com/live/hktv-09ali21mp.flv
-美亚电影粤,http://pulltest-bj.alivecdn.com/live/hktv-10ali1.00.4mp.flv
-美亚电影国,http://pulltest-bj.alivecdn.com/live/hktv-10ali1.00.5mp.flv
 【新疆】美丽伊犁APP
 伊犁新闻综合,http://110.153.180.106:55555/out_4/index.m3u8
 伊犁哈语新闻综合,http://110.153.180.106:55555/out_2/index.m3u8
@@ -112,22 +108,6 @@ CCTV13,http://110.42.37.69:6688/live/live.php?token=reOPfGMpMD&id=cctv13
 欢笑剧场,http://itv.809899.xyz/sxg.php?id=hxjc-4k_8000
 c4k,http://itv.809899.xyz/sxg.php?id=ys4Kcq_2000
 
-测试1,http://38.75.136.137:98/gslb/jsbtv1/cctv6hd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/cctv6hd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/cctv13hd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/cctv1hd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/bjwshd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/dfwshd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/jswshd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/zjwshd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/gdwshd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/szwshd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/gzwshd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/gxwshd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/ynwshd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/scwshd.m3u8?auth=pubtest1021
-测试1,http://38.75.136.137:98/gslb/jsbtv1/jlwshd.m3u8?auth=pubtest1021
-测试2,http://38.75.136.137:98/gslb/jsbtv2/dnwshd.m3u8?auth=pubtest1021
 bv|cctv1hd,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 bv|cctv2hd,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 bv|cctv3hd,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
@@ -169,8 +149,8 @@ cctv16,http://38.75.136.137:98/gslb/dsdqca/cctv16hd.m3u8?auth=test20251009
 cctv17,http://38.75.136.137:98/gslb/dsdqca/cctv17hd.m3u8?auth=test20251009
 浙江卫视,http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
 北京卫视,http://38.75.136.137:98/gslb/dsdqca/bjwshd.m3u8?auth=test20251009
-重温经典,http://38.75.136.137:98/gslb/dsdqca/cwjdhd.m3u8?auth=test20251009
-cctv1,http://38.75.136.137:98/gslb/dsdqca/dfwshd.m3u8?auth=test20251009
+重温经典,http://38.75.136.137:98/gslb/dsdqca/cwjd.m3u8?auth=test20251009
+东方卫视,http://38.75.136.137:98/gslb/dsdqca/dfwshd.m3u8?auth=test20251009
 天津卫视,http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009
 重庆卫视,http://38.75.136.137:98/gslb/dsdqca/cqwshd.m3u8?auth=test20251009
 cctv4,http://38.75.136.137:98/gslb/dsdqca/hljwshd.m3u8?auth=test20251009
@@ -213,14 +193,7 @@ CCTV5+,http://38.75.136.137:98/gslb/dsdqca/CCTV5phd.m3u8?auth=test20251009
 浙江卫视,http://38.75.136.137:98/gslb/dsdqca/wzxwhd.m3u8?auth=test20251009
 北京卫视,http://38.75.136.137:98/gslb/dsdqca/ztxwhd.m3u8?auth=test20251009
 凤凰咨询台,http://38.75.136.137:98/gslb/dsdqca/hyxwhd.m3u8?auth=test20251009
-【广西】玉林联通酒店源
-北流综合,http://171.38.107.34:8181/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
-玉林新闻综合,http://171.38.107.34:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
-茂名综合高清,http://171.38.107.34:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
-茂名文化生活高清,http://171.38.107.34:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥时代,http://171.38.107.34:8181/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
-TVB 星河,http://171.38.107.34:8181/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-有效期：70天
+
 CCTV1-综合,http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://jiugong.wulinsy.cn:39901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://jiugong.wulinsy.cn:39901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -295,20 +268,7 @@ BTV-卡酷,http://jiugong.wulinsy.cn:39901/tsfile/live/1013_1.m3u8?key=txiptv&pl
 游戏风云高清,http://123.235.73.237:9901/tsfile/live/0002_69.m3u8?key=txiptv&playlive=1&authid=0
 金色学堂高清,http://123.235.73.237:9901/tsfile/live/0002_70.m3u8?key=txiptv&playlive=1&authid=0
 有效期：4天
-现代教育,http://tvtj1.jxwltx.com:8003/live3087.m3u8
-广州综合,http://tvtj1.jxwltx.com:8003/live3044.m3u8
-经济科教,http://tvtj1.jxwltx.com:8003/live3001.m3u8
-广州新闻,http://tvtj1.jxwltx.com:8003/live2958.m3u8
-广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
-广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8
-广东新闻,http://tvtj1.jxwltx.com:8003/live2825.m3u8
-广东珠江,http://tvtj1.jxwltx.com:8003/live2897.m3u8
-广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8
-广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
-优漫卡通,http://tvtj1.jxwltx.com:8003/custom11.m3u8
-嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
-大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
-广东卫视,http://tvtj.jxwltx.com:8003/gdws.m3u8
+
 
 CCTV10-科教,http://116.77.33.98:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1-综合,http://116.77.33.98:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
