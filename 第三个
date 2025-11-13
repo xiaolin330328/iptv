@@ -1,6 +1,9 @@
 第一剧场,http://113.106.171.234:8899/rtp/239.21.0.78:3652
 第一剧场,http://113.119.26.215:58888/udp/239.253.43.15:5146
 风云剧场,http://113.119.26.215:58888/udp/239.253.43.16:5146
+cctv6,http://nn.7x9d.cn/hbgd1.php?id=cctv6hd
+cctv1,http://nn.7x9d.cn/hbgd1.php?id=cctv1hd
+浙江卫视,http://nn.7x9d.cn/hbgd1.php?id=zjwshd
 天津卫视,http://124.116.183.146:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://124.116.183.146:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://124.116.183.146:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
