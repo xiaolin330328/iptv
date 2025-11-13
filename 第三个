@@ -5,6 +5,9 @@
 广东卫视,http://124.116.183.146:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://124.116.183.146:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://124.116.183.146:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid
+CCTV4K蓝光,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
+CCTV4K蓝光,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv6&q=lg
+CCTV4K蓝光,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=lg
 湖南卫视,http://106.53.99.30/tv/api.php?id=hnws4k
 湖南卫视,http://106.53.99.30/tv/api.php?id=hndy
 浙江卫视,http://106.53.99.30/tv/migu.php?id=zjws
