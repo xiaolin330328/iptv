@@ -5,7 +5,11 @@ CCTV,http://110.42.63.57:158/live/miguHD.php?id=CCTV4
 CCTV,http://555.4gtv.ggff.net:3080/php/mig.php?id=cctv4
 CCTV,http://t.061899.xyz:80/tl/dq.php?id=cctv4
 cztv,http://go.061899.xyz:80/mg/cctv4
-cctv,http://k.061899.xyz:80/jsyd.php?id=G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8
+cctv6,http://k.061899.xyz:80/jsyd.php?id=G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8
+cctv13,http://k.061899.xyz:80/jsyd.php?id=G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8
+cctv1,http://k.061899.xyz:80/jsyd.php?id=G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
+zjws,http://k.061899.xyz:80/jsyd.php?id=G_zjws-HD-265-8M/G_zjws-HD-265-8M.m3u8
+浙江卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=zjws
 cctv,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctv1
 cctv,http://110.42.63.57:158/live/ysp.php?id=CCTV1
 https://ggfg.241817062.xyz:443/migu720p.php?id=624878276
