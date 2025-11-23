@@ -1,6 +1,13 @@
-cctv4k,http://x8y8.com:8899/rtp/239.69.1.111:10304
+山东卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8
+北京卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
+湖南卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/hnws4K.m3u8
+江苏卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/jsws4K.m3u8
+浙江卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8
+广东卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8
+四川卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
+深圳卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/szws4K.m3u8
 中央-1,https://cdn6.101.qzz.io:443/163189/cctv1
-中央-1,https://cdn6.101.qzz.io:443/163189/cctv6
+中央-1,https://cdn6.101.qzz.io:443/163189/cctv13
 Now星影国推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow01kkhk.flv
 Now爆谷国推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow02kkhk.flv
 Now紫金国推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow03kkhk.flv
