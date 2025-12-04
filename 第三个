@@ -1,3 +1,14 @@
+重温经典,https://other.ottiptv.cc/cwjd.m3u8
+
+四川http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
+山东http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8
+广东http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8
+深圳http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/szws4K.m3u8
+东方http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8
+北京http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
+江苏http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/jsws4K.m3u8
+浙江http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8
+湖南http://180.114.162.2:2380/c3.cdn.hunancatv.com/live/hnws4K.m3u8
 cctv7,http://8.138.7.223/tv/cctv7.m3u8
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
@@ -51,20 +62,8 @@ TVB,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 中天新聞台,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 HOY剧集台,http://cdn.163189.xyz/163189/hoyjj
-山东卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/sdws4K.m3u8
-北京卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/bjws4K.m3u8
-湖南卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/hnws4K.m3u8
-江苏卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/jsws4K.m3u8
-浙江卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/zjws4K.m3u8
-广东卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/gdws4K.m3u8
-四川卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/scws4K.m3u8
-深圳卫视,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/szws4K.m3u8
-东方卫视4k,http://111.6.175.82:2380/c3.cdn.hunancatv.com/live/dfws4K.m3u8
 中央-1,https://cdn6.101.qzz.io:443/163189/cctv1
 咪咕,http://120.46.223:160/PHP/MG.php?id=608807419
-Now星影国推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow01kkhk.flv
-Now爆谷国推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow02kkhk.flv
-Now紫金国推,http://test-al-livepull.migucloud.com/live/hktv-kjfhslkdjngnlkdkgjdlkgjrkltjggrtlmaguidanow03kkhk.flv
 江苏地区
 CCTV3,http://117.89.53.194:4022/rtp/239.49.8.74:8000
 
