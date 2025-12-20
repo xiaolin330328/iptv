@@ -9,9 +9,11 @@ CCTV16-4K,http://www.hkyc.site:1991/rtp/239.253.64.126:5140
 四川卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.64:5140
 深圳卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.95:5140
 广东卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.96:5140
-https://yd.pull.xzbjhuz.cn/histar/hw-cctv5.m3u8
-https://yd.pull.xzbjhuz.cn/histar/hw-cctv5plus.m3u8
-https://yd.pull.xzbjhuz.cn/histar/hw-cctv16.m3u8
+cctv5,https://yd.pull.xzbjhuz.cn/histar/hw-cctv5.m3u8
+cctv5+,https://yd.pull.xzbjhuz.cn/histar/hw-cctv5plus.m3u8
+cctv16,https://yd.pull.xzbjhuz.cn/histar/hw-cctv16.m3u8
+浙江卫视,https://yd.pull.xzbjhuz.cn/histar/hw-zjws.m3u8
+江苏卫视,https://yd.pull.xzbjhuz.cn/histar/hw-jsws.m3u8
 部分频道可用，自己套id。
 NOW英超1台,http://109.61.81.147:1935/cdn7/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
