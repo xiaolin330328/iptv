@@ -1,3 +1,16 @@
+CCTV1,http://74.91.26.218:82/live/cctv1.m3u8
+CCTV6,http://74.91.26.218:82/live/cctv6.m3u8
+CCTV8,http://74.91.26.218:82/live/cctv8.m3u8
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+美亚电影,http://74.91.26.218:82/live/mydy.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
+中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
+Z频道,http://74.91.26.218:82/live/twz.m3u8
 Now星影,https://live.catvod.com/iptv.php?id=now_xy
 PopC电影,https://live.catvod.com/iptv.php?id=popc
 Now爆谷,https://live.catvod.com/iptv.php?id=now_bg
