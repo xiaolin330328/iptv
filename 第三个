@@ -1,7 +1,5 @@
-CCTV1,http://74.91.26.218:82/live/cctv4.m3u8
-CCTV6,http://74.91.26.218:82/live/zjws.m3u8
-CCTV8,http://74.91.26.218:82/live/bjws.m3u8
-CCTV1,http://74.91.26.218:82/live/dfws.m3u8
+
+CCTV1,http://74.91.26.218:82/live/cctv1.m3u8
 CCTV6,http://74.91.26.218:82/live/cctv6.m3u8
 CCTV8,http://74.91.26.218:82/live/cctv8.m3u8
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
@@ -107,7 +105,7 @@ cctv,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctv4
 浙江卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=dfws
 cctv,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctd13
 浙江卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=tjws
-cctv,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctt6
+cctv6,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctv6
 cctv1,http://198.204.229.234:82/live/cctv1.m3u8
 cctv2,http://198.204.229.234:82/live/cctv2.m3u8
 cctv3,http://198.204.229.234:82/live/cctv3.m3u8
