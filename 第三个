@@ -97,14 +97,25 @@ HOY剧集台,http://cdn.163189.xyz/163189/hoyjj
 中央-1,https://cdn6.101.qzz.io:443/163189/cctv1
 咪咕,http://120.46.223:160/PHP/MG.php?id=608807419
 
-
+山东卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=sdws
+四川卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=scws
+湖南卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=hnws
+江苏卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=jsws
+广东卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=gdws
+深圳卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=szws
+北京卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=bjws
+cctv6,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctv6
+东方卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=sxws
+辽宁卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=lnws
+山西卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=sxws
+河北卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=hbws
 
 
 浙江卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=zjws
-cctv,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctv4
-浙江卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=dfws
-cctv,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctd13
-浙江卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=tjws
+cctv4,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctv4
+东方卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=dfws
+cctv1,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctd1
+天津卫视,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=tjws
 cctv6,http://cdn6.bkpcp.top:80/tl/tuiliu.php?id=cctv6
 cctv1,http://198.204.229.234:82/live/cctv1.m3u8
 cctv2,http://198.204.229.234:82/live/cctv2.m3u8
