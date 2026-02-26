@@ -1,6 +1,6 @@
 凤凰中文,http://pull-vivek.speedws.com/live/aaafhzw.flv
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
-凤凰香港,http://pull-vivek.speedws.com/live/aaafhx
+凤凰香港,http://pull-vivek.speedws.com/live/aaafhxg.flv
 CCTV1-综合,http://36.136.38.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV2-财经,http://36.136.38.87:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -85,18 +85,11 @@ CCTV15-音乐,http://36.136.38.87:9901/tsfile/live/0015_1.m3u8?key=txiptv&playli
 
 广西都市,http://36.136.38.87:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广西新闻,http://36.136.38.87:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-温州新闻综合,http://61.175.160.71:8888/udp/233.50.201.87:5140
-温州经济科教,http://61.175.160.71:8888/udp/233.50.201.88:5140
-温州都市生活,http://61.175.160.71:8888/udp/233.50.201.89:5140
-温州公共频道,http://61.175.160.71:8888/udp/233.50.201.90:5140
-温州交通广播,http://61.175.160.71:8888/udp/233.50.201.91:5140
+广西新闻,http://36.136.38.87:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid
 海南卫视,http://go.061899.xyz/mg/hinws
-,http://go.061899.xyz/mg/sdws
-,http://go.061899.xyz/mg/gdws
-,http://go.061899.xyz/mg/jxws
+山东卫视,http://go.061899.xyz/mg/sdws
+广东卫视,http://go.061899.xyz/mg/gdws
+江西卫视,http://go.061899.xyz/mg/jxws
 江苏卫视,http://180.76.145.203:1112/migu720p.php?id=623899368
 吉林卫视,http://180.76.145.203:1112/migu720p.php?id=630288397
 重庆卫视,http://180.76.145.203:1112/migu720p.php?id=630288006
@@ -122,8 +115,7 @@ CCTV-4K超高清,https://live.tv.darwinchow.com/channel/cctv4k?livekey=01WTlEv3F
 北京卫视4K,https://live.tv.darwinchow.com/channel/beijingweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
 东方卫视4K,https://live.tv.darwinchow.com/channel/dongfangweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
 江苏卫视4K,https://live.tv.darwinchow.com/channel/jiangsuweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
-浙江卫视4K
-https://live.tv.darwinchow.com/channel/zhejiangweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
+浙江卫视4K,https://live.tv.darwinchow.com/channel/zhejiangweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
 山东卫视4K,https://live.tv.darwinchow.com/channel/shandongweishi4k?livekey=01WTlEv3FA1Fasd8awgLRm3N0udNx7KTciz66&userkey=a3b06b2dae5c55c3
 湖南卫视4K,https://live.tv.darwinchow.com/channel/hunanweishi4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
 广东卫视4K,https://live.tv.darwinchow.com/channel/guangdongweishi4k?livekey=01WTlEv3FA1Fasd8awgG0lkdXz1ULJxHgD6WJ&userkey=a3b06b2dae5c55c3
