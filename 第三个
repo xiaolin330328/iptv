@@ -1,55 +1,5 @@
 
 
-汕头综合,http://113.65.4.23:7188/udp/239.253.43.45:5146
-
-汕头经济生活,http://113.65.4.23:7188/udp/239.253.43.46:5146
-
-广东影视,http://113.65.4.23:7188/udp/239.77.0.217:5146
-
-广东珠江,http://113.65.4.23:7188/udp/239.77.0.114:5146
-
-广东新闻,http://113.65.4.23:7188/udp/239.77.0.173:5146
-
-广东体育,http://113.65.4.23:7188/udp/239.77.0.112:5146
-
-广东民生,http://113.65.4.23:7188/udp/239.77.0.225:5146
-
-广东4K超高清,http://113.65.4.23:7188/udp/239.77.0.244:5146
-
-广东经济科教,http://113.65.4.23:7188/udp/239.77.0.167:5146
-
-广东少儿,http://113.65.4.23:7188/udp/239.77.0.250:5146
-
-广东嘉佳卡通,http://113.65.4.23:7188/udp/239.77.0.179:5146
-
-广州综合,http://113.65.4.23:7188/udp/239.253.43.71:5146
-
-广州新闻,http://113.65.4.23:7188/udp/239.253.43.72:5146
-
-广州影视,http://113.65.4.23:7188/udp/239.253.43.73:5146
-
-广州法治,http://113.65.4.23:7188/udp/239.253.43.74:5146
-
-广州南国都市,http://113.65.4.23:7188/udp/239.253.43.99:5146
-
-深圳都市,http://113.65.4.23:7188/udp/239.77.1.176:5146
-
-深圳娱乐,http://113.65.4.23:7188/udp/239.77.1.243:5146
-
-深圳公共,http://113.65.4.23:7188/udp/239.77.1.178:5146
-
-深圳少儿,http://113.65.4.23:7188/udp/239.77.1.244:5146
-
-深圳财经生活,http://113.65.4.23:7188/udp/239.77.1.242:5146
-
-深圳电视剧,http://113.65.4.23:7188/udp/239.77.1.177:5146
-
-深圳电视剧,http://113.65.4.23:7188/udp/239.77.1.125:5146
-
-深圳公共,http://113.65.4.23:7188/udp/239.77.1.126:5146
-
-深圳都市,http://113.65.4.23:7188/udp/239.77.1.124:5146
-
 
 浙江电视,#genre#
 浙江卫视,https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
@@ -70,6 +20,7 @@
 浙江卫视4K,http://play-qukan.cztv.com/live/1758879019692345.m3u8
 东方卫视4K,http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 海南卫视,http://go.061899.xyz/mg/hinws
 山东卫视,http://go.061899.xyz/mg/sdws
 广东卫视,http://go.061899.xyz/mg/gdws
@@ -139,11 +90,6 @@ TVB 翡翠台,http://74.91.26.218:82/live/jade.m3u8
 天映频道,http://74.91.26.218:82/live/typd.m3u8
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 有效期：10天
-
-
-凤凰资讯,https://ytb.178.indevs.in/?id=fN9uYWCjQaw
-CCTV4,https://ytb.178.indevs.in/?id=7j92Myu2wzg
-CCTV4美洲,https://ytb.178.indevs.in/?id=f6Kq93wnaZ8
 翡*翠台,http://r.jdshipin.com/qClQf
 翡*翠台,http://r.jdshipin.com/qrfbg
 翡*翠台,http://r.jdshipin.com/62WM7
@@ -172,14 +118,8 @@ HOY TV,http://r.jdshipin.com/sFw4S
 广州南国都市,http://r.jdshipin.com/nWaZO
 广州综合,http://r.jdshipin.com/snhya
 海峡卫视,http://r.jdshipin.com/WtYt3
-咪咕视频4K,http://r.jdshipin.com/ln4xk
-咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
 重温经典高清,http://38.75.136.137:98/gslb/dsdqbv/cwjd.m3u8?auth=test20251009
 CCTV-4K超高清,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-重温经典,https://other.ottiptv.cc/cwjd.m3u8
-
-cctv7,http://8.138.7.223/tv/cctv7.m3u8
-浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 POPC,http://bxtv.3a.ink/api.php?id=popc
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
@@ -191,18 +131,12 @@ J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
-东森电影,http://51.89.166.17:3002/index.php?id=ettvmovie
 澳视资讯台,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-有线新闻,http://hls.168.us.kg/u/78/master.m3u8
-Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-
 TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-銀視數碼台,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
+大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 非凡新闻台,rtmp://f13h.mine.nu/sat/tv581
@@ -422,9 +356,9 @@ bv|cctv16hd,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 bv|cctv17hd,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 bv|cctv5p,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 bv|hnwshd,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-bv|dfwshd,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
-bv|bjwshd,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
-bv|cwjd,http://38.75.136.137:98/gslb/dsdqbv/cwjd.m3u8?auth=test20251009
+东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+重温经典,http://38.75.136.137:98/gslb/dsdqbv/cwjd.m3u8?auth=test20251009
 cctv1,http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
 cctv2,http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
 cctv3,http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009
@@ -577,8 +511,7 @@ CCTV15-音乐,http://116.77.33.98:44330/tsfile/live/0016_1.m3u8?key=txiptv&playl
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳门体育,http://cdn6.163189.xyz/163189/amty
 澳门综艺,http://cdn6.163189.xyz/163189/amzy
-浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+
 
 【四川】宜宾移动
 达州新闻综合高清,http://112.19.88.97:8899/udp/239.10.0.54:5140
@@ -771,43 +704,6 @@ pendy.dpdns.org
 an94tv.cfd
 
 鹰潭新闻综合,http://58.17.89.7:8081/hls/16/index.m3u8
-
-【山东】临沂电信,#genre#
-宁阳综合高清,http://301828.xyz:4200/udp/239.21.1.143:5002
-宁阳生活,http://301828.xyz:4200/udp/239.21.1.144:5002
-淄博影视高清,http://301828.xyz:4200/udp/239.21.1.182:5002
-邹城综合高清,http://301828.xyz:4200/udp/239.21.1.185:5002
-文登综合高清,http://301828.xyz:4200/udp/239.21.1.174:5002
-济阳综合高清,http://301828.xyz:4200/udp/239.21.1.187:5002
-广饶综合高清,http://301828.xyz:4200/udp/239.21.1.193:5002
-烟台经济科技高清,http://301828.xyz:4200/udp/239.21.1.205:5002
-烟台影视高清,http://301828.xyz:4200/udp/239.21.1.204:5002
-岚山综合高清,http://301828.xyz:4200/udp/239.21.1.209:5002
-巨野综合,http://301828.xyz:4200/udp/239.21.1.215:5002
-长寿蔬菜高清,http://301828.xyz:4200/udp/239.21.1.218:5002
-平阴综合,http://301828.xyz:4200/udp/239.21.1.221:5002
-荣成综合高清,http://301828.xyz:4200/udp/239.21.1.227:5002
-荣昌综合,http://301828.xyz:4200/udp/239.21.1.220:5002
-崂山综合高清,http://301828.xyz:4200/udp/239.21.1.223:5002
-兖州综合高清,http://301828.xyz:4200/udp/239.21.1.224:5002
-平度综合高清,http://301828.xyz:4200/udp/239.21.1.228:5002
-齐河综合高清,http://301828.xyz:4200/udp/239.21.1.230:5002
-禹城综合高清,http://301828.xyz:4200/udp/239.21.1.241:5002
-禹城综艺高清,http://301828.xyz:4200/udp/239.21.1.242:5002
-定陶综合高清,http://301828.xyz:4200/udp/239.21.1.244:5002
-新泰乡村高清,http://301828.xyz:4200/udp/239.21.1.248:5002
-东明新闻综合,http://301828.xyz:4200/udp/239.21.1.246:5002
-莱西综合高清,http://301828.xyz:4200/udp/239.21.1.247:5002
-阳信综合高清,http://301828.xyz:4200/udp/239.21.1.252:5002
-莒县综合,http://301828.xyz:4200/udp/239.21.1.236:5002
-栖霞综合,http://301828.xyz:4200/udp/239.21.1.229:5002
-诸暨综合,http://301828.xyz:4200/udp/239.21.1.217:5002
-曲阜综合高清,http://301828.xyz:4200/udp/239.21.1.225:5002
-茌平综合,http://301828.xyz:4200/udp/239.21.1.219:5002
-东平综合高清,http://301828.xyz:4200/udp/239.21.1.216:5002
-莘县综合高清,http://301828.xyz:4200/udp/239.21.1.211:5002
-无棣综合高清,http://301828.xyz:4200/udp/239.21.1.214:5002
-有效期: 177天
 广东体育,http://xhyx.gz.cn:1698/hls/4/index.m3u8
 翡翠台,http://xhyx.gz.cn:1698/hls/5/index.m3u8
 新视觉,http://xhyx.gz.cn:1698/hls/10/index.m3u8
@@ -824,7 +720,6 @@ an94tv.cfd
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 
 【内蒙古】赤峰联通
 鄂尔多斯新闻综合高清,http://124.67.68.139:4022/udp/239.125.2.165:4154
