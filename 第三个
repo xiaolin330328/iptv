@@ -1,8 +1,14 @@
 
-浙江,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=zjjkys
-浙江,http://154.12.36.187:656/index.php?token=7777&id=zjjkys
+浙江教科,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=zjjkys
+浙江教科,http://154.12.36.187:656/index.php?token=7777&id=zjqjds
+浙江教科,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=zjjjsh
+浙江教科,http://154.12.36.187:656/index.php?token=7777&id=zjmsxx
+浙江教科,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=zjxw
+浙江教科,http://154.12.36.187:656/index.php?token=7777&id=zjsepd
+浙江教科,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=zjgjpd
+浙江教科,http://154.12.36.187:656/index.php?token=7777&id=zjzjjl
  
-,rtmp://58.200.131.2:1935/livetv/sxrtv
+山西,rtmp://58.200.131.2:1935/livetv/sxrtv
 CCTV1 1080,http://47.100.29.86:23111/cctv1hd/4000000/mnf.m3u8
 CCTV2 540,http://47.100.29.86:23111/cctv2/1300000/mnf.m3u8
 CCTV3 1080,http://47.100.29.86:23111/cctv3hd/4000000/mnf.m3u8
