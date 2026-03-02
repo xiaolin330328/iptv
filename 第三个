@@ -31,7 +31,10 @@ Litv,https://litv.goiptv.de5.net/litv.php?id=litv-xinchuang16
 浙江新闻,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=zjxw
 浙江少儿,http://154.12.36.187:656/index.php?token=7777&id=zjse
 浙江国际,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=zjgj
-浙江,http://154.12.36.187:656/index.php?token=7777&id=zjzjjl
+浙江记录,http://154.12.36.187:656/index.php?token=7777&id=zjzjjl
+浙江卫视,http://110.42.37.69:6688/live/live.php?token=OBTCbWICbZt3&id=zjws
+浙江卫视,http://154.12.36.187:656/index.php?token=7777&id=zjws
+
 CCTV1 1080,http://47.100.29.86:23111/cctv1hd/4000000/mnf.m3u8
 CCTV2 540,http://47.100.29.86:23111/cctv2/1300000/mnf.m3u8
 CCTV3 1080,http://47.100.29.86:23111/cctv3hd/4000000/mnf.m3u8
