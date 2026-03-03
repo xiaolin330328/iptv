@@ -70,7 +70,9 @@ Litv,https://litv.goiptv.de5.net/litv.php?id=ettvmovie
 
 浙江之江纪录,http://ali-xwl.cztv.com/live/channel121080Plxw.m3u8#https://ali-xwl.cztv.com/live/channel121080Pnew.m3u8#https://ali-xwl.cztv.com/live/channel12720Pnew.m3u8#http://tv.sohu.blog/proxy/zjsdxf.php?code=d8abed4021744ac184cc2fa7b59ee06f
 
-杭州一套,https://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8#http://cn.sohu.blog/zjhz.php?id=hzzh#http://123.159.34.48:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州一套,https://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
+,http://cn.sohu.blog/zjhz.php?id=hzzh
+,http://123.159.34.48:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 
 杭州新闻,http://cn.sohu.blog/zjhz.php?id=hzxw
 
