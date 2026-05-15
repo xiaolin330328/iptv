@@ -1,4 +1,4 @@
-【
+
 
 CCTV-4,http://47.100.29.86:21345/qilin5.php?id=cctv4
 
@@ -1763,6 +1763,21 @@ NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 
 
 山东济南联通,#genre#
+【山东】济南联通
+济南新闻综合高清,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.254:8000
+济南生活,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.251:8000
+【济南娱乐】,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.250:8000
+济南都市,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.248:8000
+济南文旅体育,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.249:8000
+济南鲁中,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.244:8000
+济南教育高清,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.246:8000
+平阴综合,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.247:8000
+济阳综合高清,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.245:8000
+长清综合,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.242:8000
+章丘综合高清,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.241:8000
+商河综合高清,http://nas.yinjunsheng.cloud:8888/udp/239.253.242.240:8000
+
+有效期：128天
 济南新闻综合,http://home.yinjunsheng.top:8888/udp/239.253.242.254:8000
 济南少儿,http://home.yinjunsheng.top:8888/udp/239.253.242.252:8000
 济南生活,http://home.yinjunsheng.top:8888/udp/239.253.242.251:8000
