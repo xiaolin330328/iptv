@@ -441,19 +441,19 @@ cdn.loc.cc
 
 杭州一套,https://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
 
-杭州新闻,http://cn.sohu.blog/zjhz.php?id=hzxw
+杭州新闻,http://115.29.208.41:33333/list/zjhz.php?id=hzxw
 
-杭州影视,http://39.106.167.36/zjhz.php?id=hzys
+杭州影视,http://115.29.208.41:33333/list/zjhz.php?id=hzys
 
-西湖明珠,http://cn.sohu.blog/zjhz.php?id=hzmz
+西湖明珠,http://115.29.208.41:33333/list/zjhz.php?id=hzmz
 
-杭州生活,http://cn.sohu.blog/zjhz.php?id=hzsh
+杭州生活,http://115.29.208.41:33333/list/zjhz.php?id=hzsh
 
 杭州影视,http://http://101.66.194.99:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 
-杭州少儿青少,http://cn.sohu.blog/zjhz.php?id=hzqsty
+杭州少儿青少,http://115.29.208.41:33333/list/zjhz.php?id=hzqsty
 
-杭州导视,http://cn.sohu.blog/zjhz.php?id=hzds
+杭州导视,http://115.29.208.41:33333/list/zjhz.php?id=hzds
 
 萧山综合,https://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
 
@@ -471,13 +471,13 @@ cdn.loc.cc
 
 淳安新闻综合,http://tv.sohu.blog/proxy/zjhzca.php
 
-宁波1套,http://tv.sohu.blog/proxy/zjnb.php?id=nbtv1
+宁波1套,http://115.29.208.41:33333/list/zjnb.php?id=nbtv1
 
-宁波2套,http://tv.sohu.blog/proxy/zjnb.php?id=nbtv2
+宁波2套,http://115.29.208.41:33333/list/zjnb.php?id=nbtv2
 
-宁波3套,http://tv.sohu.blog/proxy/zjnb.php?id=nbtv3
+宁波3套,http://115.29.208.41:33333/list/zjnb.php?id=nbtv3
 
-宁波4套,http://tv.sohu.blog/proxy/zjnb.php?id=nbtv4
+宁波4套,http://115.29.208.41:33333/list/zjnb.php?id=nbtv4
 
 象山新闻综合,https://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 
@@ -495,9 +495,9 @@ cdn.loc.cc
 
 瑞安新闻综合,http://115.29.208.41:33333/list/zjdft.php?id=1681269183807252
 
-泰顺新闻综合,http://tv.sohu.blog/proxy/zjwzts.php
+泰顺新闻综合,http://115.29.208.41:33333/list/zjwzts.php
 永嘉新闻综合,http://115.29.208.41:33333/list/gdy.php?id=wenzhouyj
-苍南新闻综合,http://php?id=1726543353849105
+苍南新闻综合,http://115.29.208.41:33333/list/zjdft.php?id=1726543353849105
 洞头电视台,http://115.29.208.41:33333/list/zjdft.php?id=1735612228127376
 乐清新闻频道,http://115.29.208.41:33333/list/gdy.php?id=wenzhouyq
 
