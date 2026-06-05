@@ -493,21 +493,13 @@ cdn.loc.cc
 
 温州新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel03/1080p.m3u8
 
-永嘉新闻综合,http://115.190.252.60/gdy.php?id=wenzhouyj
-
-苍南新闻综合,http://tv.sohu.blog/proxy/zjdft.php?id=1726543353849105
-
-洞头电视台,http://tv.sohu.blog/proxy/zjdft.php?id=1735612228127376
-
-乐清新闻频道,http://115.190.252.60/gdy.php?id=wenzhouyq
-
-乐清新闻频道,http://115.190.252.60/gdy.php?id=wenzhouyqtv2
-
-乐清新闻频道,http://115.190.252.60/gdy.php?id=wenzhoupy2
-
-瑞安新闻综合,http://tv.sohu.blog/proxy/zjdft.php?id=1681269183807252
+瑞安新闻综合,http://115.29.208.41:33333/list/zjdft.php?id=1681269183807252
 
 泰顺新闻综合,http://tv.sohu.blog/proxy/zjwzts.php
+永嘉新闻综合,http://115.29.208.41:33333/list/gdy.php?id=wenzhouyj
+苍南新闻综合,http://php?id=1726543353849105
+洞头电视台,http://115.29.208.41:33333/list/zjdft.php?id=1735612228127376
+乐清新闻频道,http://115.29.208.41:33333/list/gdy.php?id=wenzhouyq
 
 绍兴新闻综合,http://app.shaoxing.com.cn/video/videojs/index?site_id=10001&live_type=1&id=78
 
