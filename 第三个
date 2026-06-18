@@ -1,4 +1,23 @@
 
+中视经典.http://74.91.26.218:82/live/ctvjd.m3u8
+翡翠台.http://74.91.26.218:82/live/jade.m3u8
+CTS.http://74.91.26.218:82/live/cts.m3u8
+无线新闻.http://74.91.26.218:82/live/inews.m3u8
+
+中视新闻.http://74.91.26.218:82/live/ctvxw.m3u8
+翡翠台.http://74.91.26.218:82/live/tvbs.m3u8
+CTS.http://74.91.26.218:82/live/ctsxw.m3u8
+台视.http://74.91.26.218:82/live/ttvxw.m3u8
+
+中天娱乐.http://74.91.26.218:82/live/ctvys.m3u8
+翡翠台.http://74.91.26.218:82/live/feifannews.m3u8
+CTS.http://74.91.26.218:82/live/cts.m3u8
+无线新闻.http://74.91.26.218:82/live/inews.m3u8
+
+中天新闻.http://74.91.26.218:82/live/ctvxw.m3u8
+翡翠台.http://74.91.26.218:82/live/jade.m3u8
+ftv.http://74.91.26.218:82/live/ftv.m3u8
+无线新闻.http://74.91.26.218:82/live/yzwx.m3u8
 
 CCTV-4,http://47.100.29.86:21345/qilin5.php?id=cctv4
 
@@ -72,19 +91,7 @@ CCTV15,http://107.150.52.50:82/live/cctv15.m3u8
 CCTV4k,http://107.150.52.50:82/live/cctv4k.m3u8
 
 CCTV8k,http://107.150.52.50:82/live/cctv8k.m3u8
-安徽卫视,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=ahws
-浙江国际,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=zjgj
-浙江新闻,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=zjxw
-江苏城市,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=jscs
-江苏影视,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=jsys
-贵州卫视,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=gzws
-山东卫视,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=sdws
-天津卫视,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=tjws
-江苏卫视,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=jsws
-sss,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=hnws
-北京卫视,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=bjws
-三沙卫视,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=ssws
-重庆卫视,http://110.42.52.180:6688/live/live.php?token=ow5-cQtHkBwZ&id=cqws
+
 翡翠台(WebVTT字幕),https://hls.163189.xyz/163189/0205c25f6b2ce920
 明珠台(WebVTT字幕),https://hls.163189.xyz/163189/d6a00a3009bf239e
 TVB Plus(WebVTT字幕),https://hls.163189.xyz/163189/a2beac471af96802
