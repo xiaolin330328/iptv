@@ -9,7 +9,8 @@ cctv1,http://198.204.228.26/live/cctv1hd.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
 cctv5,http://115.190.252.60/cctv5.php
 cctv1,http://115.190.252.60/cctv1.php
-cctv5,http://101.6.130.52.1234/641886683
+cctv5,http://101.6.130.52:1234/641886683
+cctv1,http://101.6.130.52:1234/673168121
 凤凰美洲,http://115.190.252.60/zjws.php
 CCTV-4,http://115.190.252.60:11111/qilin.php?id=cctv4
 CCTV-5,http://115.190.252.60:11111/qilin.php?id=cctv5
