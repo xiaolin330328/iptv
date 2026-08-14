@@ -12,7 +12,7 @@ cctv4,https://0a73-927f-c5b9-8335.kylintv.tv/live/cctv4hd_iphone.m3u8
 cctv6,https://0a73-927f-c5b9-8335.kylintv.tv/live/cctv6hd_iphone.m3u8
 浙江卫视,https://0a73-927f-c5b9-8335.kylintv.tv/live/zhejtvhd_iphone.m3u8
 浙江卫视,https://0a73-927f-c5b9-8335.kylintv.tv/live/zhejtvhd_iphone.m3u8
-浙江卫视,https://ed6e-f4b7-af48-6b55.kylintv.tv/live/pxinhd_iphone.m3u8
+浙江卫视,https://ed6e-f4b7-af48-6d55.kylintv.tv/live/pxinhd_iphone.m3u8
 浙江卫视,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
@@ -139,8 +139,6 @@ cctv13,http://198.204.228.26/live/cctv13hd.m3u8
 虎牙林正英,http://198.204.228.26/live/hylzy.m3u8
 cctv5,http://115.190.252.60/cctv5.php
 cctv1,http://115.190.252.60/cctv1.php
-cctv5,http://101.6.130.52:1234/641886683
-cctv1,http://101.6.130.52:1234/673168121
 CCTV-4,http://115.190.252.60:11111/qilin3.php?id=cctv4
 CCTV-5,http://115.190.252.60:11111/qilin3.php?id=cctv5
 CCTV-6,http://115.190.252.60:11111/qilin3.php?id=cctv6
