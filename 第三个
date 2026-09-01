@@ -1,22 +1,4 @@
-卫视,http://115.190.252.60/wcetv.php?id=1
-卫视,http://115.190.252.60/wcetv.php?id=2
-卫视,http://115.190.252.60/wcetv.php?id=3
-卫视,http://115.190.252.60/wcetv.php?id=4
-卫视,http://115.190.252.60/wcetv.php?id=5
-卫视,http://115.190.252.60/wcetv.php?id=6
-卫视,http://115.190.252.60/wcetv.php?id=7
-卫视,http://115.190.252.60/wcetv.php?id=8
-卫视,http://115.190.252.60/wcetv.php?id=9
-卫视,http://115.190.252.60/wcetv.php?id=10
-卫视,http://115.190.252.60/wcetv.php?id=11
-卫视,http://115.190.252.60/wcetv.php?id=12
-凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8
-凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8
-凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
+
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
 龙华经典,https://8.fast.hidns.vip/163189/lhjd
@@ -357,20 +339,20 @@ cdn.loc.cc
 浙江之江纪录,http://ali-xwl.cztv.com/live/channel121080Plxw.m3u8#https://ali-xwl.cztv.com/live/channel121080Pnew.m3u8#https://ali-xwl.cztv.com/live/channel12720Pnew.m3u8#http://tv.sohu.blog/proxy/zjsdxf.php?code=d8abed4021744ac184cc2fa7b59ee06f
 
 杭州一套,https://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
+杭州新闻,http://115.29.208.41:33333/list7/zjhz.php?id=hzzh
+杭州新闻,http://115.29.208.41:33333/list7/zjhz.php?id=hzxw
 
-杭州新闻,http://115.29.208.41:33333/list/zjhz.php?id=hzxw
+杭州影视,http://115.29.208.41:33333/list7/zjhz.php?id=hzys
 
-杭州影视,http://115.29.208.41:33333/list/zjhz.php?id=hzys
+西湖明珠,http://115.29.208.41:33333/list7/zjhz.php?id=hzmz
 
-西湖明珠,http://115.29.208.41:33333/list/zjhz.php?id=hzmz
-
-杭州生活,http://115.29.208.41:33333/list/zjhz.php?id=hzsh
+杭州生活,http://115.29.208.41:33333/list7/zjhz.php?id=hzsh
 
 杭州影视,http://http://101.66.194.99:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 
-杭州少儿青少,http://115.29.208.41:33333/list/zjhz.php?id=hzqsty
+杭州少儿青少,http://115.29.208.41:33333/list7/zjhz.php?id=hzqsty
 
-杭州导视,http://115.29.208.41:33333/list/zjhz.php?id=hzds
+杭州导视,http://115.29.208.41:33333/list7/zjhz.php?id=hzds
 
 萧山综合,https://l.cztvcloud.com/channels/lantian/sxchannel01/1080p.m3u8
 
@@ -388,13 +370,13 @@ cdn.loc.cc
 
 淳安新闻综合,http://tv.sohu.blog/proxy/zjhzca.php
 
-宁波1套,http://115.29.208.41:33333/list/zjnb.php?id=nbtv1
+宁波1套,http://115.29.208.41:33333/list7/zjnb.php?id=nbtv1
 
-宁波2套,http://115.29.208.41:33333/list/zjnb.php?id=nbtv2
+宁波2套,http://115.29.208.41:33333/list7/zjnb.php?id=nbtv2
 
-宁波3套,http://115.29.208.41:33333/list/zjnb.php?id=nbtv3
+宁波3套,http://115.29.208.41:33333/list7/zjnb.php?id=nbtv3
 
-宁波4套,http://115.29.208.41:33333/list/zjnb.php?id=nbtv4
+宁波4套,http://115.29.208.41:33333/list7/zjnb.php?id=nbtv4
 
 象山新闻综合,https://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 
@@ -410,13 +392,13 @@ cdn.loc.cc
 
 温州新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel03/1080p.m3u8
 
-瑞安新闻综合,http://115.29.208.41:33333/list/zjdft.php?id=1681269183807252
+瑞安新闻综合,http://115.29.208.41:33333/list7/zjdft.php?id=1681269183807252
 苍南电视台,http://hls.quklive.com/live/play-sh-21.quklive.com/1726543353849105.m3u8?auth_key=2064365220-c09cf6680f96440ba7cd4da94432c20c-0-c119fc6d113674617adad84a908927e1
-泰顺新闻综合,http://115.29.208.41:33333/list/zjwzts.php
-永嘉新闻综合,http://47.96.12.149/list/gdy.php?id=wenzhouyj
-苍南新闻综合,http://47.96.12.149/list/zjdft.php?id=1726543353849105
-洞头电视台,http://115.29.208.41:33333/list/zjdft.php?id=1735612228127376
-乐清新闻频道,http://115.29.208.41:33333/list/gdy.php?id=wenzhouyq
+泰顺新闻综合,http://115.29.208.41:33333/list7/zjwzts.php
+永嘉新闻综合,http://47.96.12.149/list7/gdy.php?id=wenzhouyj
+苍南新闻综合,http://47.96.12.149/list7/zjdft.php?id=1726543353849105
+洞头电视台,http://115.29.208.41:33333/list7/zjdft.php?id=1735612228127376
+乐清新闻频道,http://115.29.208.41:33333/list7/gdy.php?id=wenzhouyq
 长兴电视台,http://play-sh11.quklive.com/live/1653968365110354.m3u8
 浙江4k,https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江4k,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -439,31 +421,33 @@ HTV-4影视,http://183.129.255.66:8480/hls/22/index.m3u8
 
 柯桥新闻综合,https://play-a2.quklive.com/live/1640945211435051.m3u8
 
-兴昌新闻频道,http://115.190.252.60/gdy.php?id=shaoxingxc
+兴昌新闻频道,http://115.29.208.41:33333/list7/gdy.php?id=shaoxingxc
 
-兴昌生活频道,http://115.190.252.60/gdy.php?id=shaoxingxcsh
+兴昌生活频道,http://115.29.208.41:33333/list7/gdy.php?id=shaoxingxcsh
 
 金华新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel07/1080p.m3u8#http://tv.sohu.blog/proxy/zjjh.php
 
-东阳新闻综合,http://tv.sohu.blog/proxy/zjdft.php?id=1681113308206040
+东阳新闻综合,http://115.29.208.41:33333/list7/zjdft.php?id=1681113308206040
 
-东阳影视生活,http://tv.sohu.blog/proxy/zjdft.php?id=1681113292195007
+东阳影视生活,http://115.29.208.41:33333/list7/zjdft.php?id=1681113292195007
 
-永康新闻综合,http://tv.sohu.blog/proxy/zjdft.php?id=1625061424267104
+永康新闻综合,http://115.29.208.41:33333/list7/zjdft.php?id=1625061424267104
 
-华溪频道,http://tv.sohu.blog/proxy/zjdft.php?id=1625062755227231
+华溪频道,http://115.29.208.41:33333/list7/zjdft.php?id=1625062755227231
 
-兰溪新闻综合,http://115.190.252.60/gdy.php?id=jinhualx
+兰溪新闻综合,http://115.29.208.41:33333/list7/gdy.php?id=jinhualx
 
-磐安新闻综合,http://tv.sohu.blog/proxy/zjdft.php?id=1722331404917192
+磐安新闻综合,http://115.29.208.41:33333/list7/zjdft.php?id=1722331404917192
 
-磐安文化旅游,http://tv.sohu.blog/proxy/zjdft.php?id=1722333472632211
+磐安文化旅游,http://115.29.208.41:33333/list7/zjdft.php?id=1722333472632211
 
-武义新闻综合,http://tv.sohu.blog/proxy/zjdft.php?id=1707437639053211
+武义新闻综合,http://115.29.208.41:33333/list7/zjdft.php?id=1707437639053211
 
-义乌新闻综合,http://tv.sohu.blog/proxy/zjyw.php?id=ywxwzh#http://115.190.252.60/gdy.php?id=jinhuayw
+义乌新闻综合,http://115.29.208.41:33333/list7/zjyw.php?id=ywxwzh
+浙江义乌,http://115.29.208.41:33333/list7/gdy.php?id=jinhuayw
 
-义乌商贸,http://tv.sohu.blog/proxy/zjyw.php?id=ywsmpd#http://115.190.252.60/gdy.php?id=jinhuaywsm
+义乌商贸,http://115.29.208.41:33333/list7/zjyw.php?id=ywsmpd
+义乌,http://115.29.208.41:33333/list7/gdy.php?id=jinhuaywsm
 
 义乌公共文艺,http://tv.sohu.blog/proxy/zjyw.php?id=ywwtpd#http://115.190.252.60/gdy.php?id=jinhuaywgg
 
@@ -471,25 +455,25 @@ HTV-4影视,http://183.129.255.66:8480/hls/22/index.m3u8
 
 和合频道,http://tv.sohu.blog/proxy/zjdft.php?id=1617072208961931
 
-玉环新闻综合,http://tv.sohu.blog/proxy/zjdft.php?id=1728627049847070
+玉环新闻综合,http://115.29.208.41:33333/list7/zjdft.php?id=1728627049847070
 
-温岭新闻综合,http://115.190.252.60/gdy.php?id=wlxwzh
+温岭新闻综合,http://115.29.208.41:33333/list7/gdy.php?id=wlxwzh
 
-温岭民生休闲,http://115.190.252.60/gdy.php?id=wlmsxx
+温岭民生休闲,http://115.29.208.41:33333/list7/gdy.php?id=wlmsxx
 
-仙居新闻综合,http://115.190.252.60/gdy.php?id=taizhouxj
+仙居新闻综合,http://115.29.208.41:33333/list7/gdy.php?id=taizhouxj
 
 嘉兴新闻综合,https://l.cztvcloud.com/channels/lantian/sxchannel06/1080p.m3u8#http://tv.sohu.blog/proxy/zjdft.php?id=1675942165226154
 
-嘉兴文化影视,http://tv.sohu.blog/proxy/zjdft.php?id=1675149625220101
+嘉兴文化影视,http://115.29.208.41:33333/list7/zjdft.php?id=1675149625220101
 
-嘉兴公共频道,http://tv.sohu.blog/proxy/zjdft.php?id=1675149601192103
+嘉兴公共频道,http://115.29.208.41:33333/list7/zjdft.php?id=1675149601192103
 
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8#http://tv.sohu.blog/proxy/zjdft.php?id=1690167908295069
 
-桐乡新闻综合,http://115.190.252.60/gdy.php?id=jiaxingtx
+桐乡新闻综合,http://115.29.208.41:33333/list7/gdy.php?id=jiaxingtx
 
 嘉善新闻综合,https://p2hs.vzan.com/slowlive/633251673265558519/live.m3u8
 
@@ -501,9 +485,9 @@ HTV-4影视,http://183.129.255.66:8480/hls/22/index.m3u8
 
 长兴电视台,https://play-a11.quklive.com/live/1689126294179076.m3u8
 
-安吉新闻综合,http://115.190.252.60/gdy.php?id=huzhouaj
+安吉新闻综合,http://115.29.208.41:33333/list7/gdy.php?id=huzhouaj
 
-安吉生活影视,http://115.190.252.60/gdy.php?id=huzhouajsh
+安吉生活影视,http://115.29.208.41:33333/list7/gdy.php?id=huzhouajsh
 
 衢州综合频道,http://zj-zb-dx.sohu.blog:4000/rtp/233.50.202.11:5140
 
@@ -515,13 +499,13 @@ HTV-4影视,http://183.129.255.66:8480/hls/22/index.m3u8
 
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 
-开化国家公园,http://tv.sohu.blog/proxy/zjdft.php?id=1721296664884226
+开化国家公园,http://115.29.208.41:33333/list7/zjdft.php?id=1721296664884226
 
-开化新闻综合,http://tv.sohu.blog/proxy/zjdft.php?id=1721295786810240
+开化新闻综合,http://115.29.208.41:33333/list7/zjdft.php?id=1721295786810240
 
-常山电视台,http://tv.sohu.blog/proxy/zjdft.php?id=1621306190044902
+常山电视台,http://115.29.208.41:33333/list7/zjdft.php?id=1621306190044902
 
-江山电视台,http://tv.sohu.blog/proxy/zjdft.php?id=1623117710666335
+江山电视台,http://115.29.208.41:33333/list7/zjdft.php?id=1623117710666335
 
 丽水新闻综合,http://zj-zb-lt.sohu.blog:7912/rtp/233.50.201.162:5140
 
@@ -535,15 +519,15 @@ HTV-4影视,http://183.129.255.66:8480/hls/22/index.m3u8
 
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 
-景宁电视台,http://tv.sohu.blog/proxy/zjdft.php?id=1644806967279134
+景宁电视台,http://115.29.208.41:33333/list7/zjdft.php?id=1644806967279134
 
-遂川电视台,http://tv.sohu.blog/proxy/zjdft.php?id=1708426592499070
+遂川电视台,http://115.29.208.41:33333/list7/zjdft.php?id=1708426592499070
 
-舟山新闻综合,http://tv.sohu.blog/proxy/zjdft.php?id=1699001836208185
+舟山新闻综合,http://115.29.208.41:33333/list7/zjdft.php?id=1699001836208185
 
-舟山公共频道,http://tv.sohu.blog/proxy/zjdft.php?id=1699002430299200
+舟山公共频道,http://115.29.208.41:33333/list7/zjdft.php?id=1699002430299200
 
-普陀电视台,http://tv.sohu.blog/proxy/zjdft.php?id=1679466742638079
+普陀电视台,http://115.29.208.41:33333/list7/zjdft.php?id=1679466742638079
 
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 浙江卫视4K,http://play-qukan.cztv.com/live/1758879019692345.m3u8
